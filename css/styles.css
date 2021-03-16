@@ -1,0 +1,133 @@
+body{
+    font-family: 'Montserrat';
+}
+
+
+    /* Title section */
+#title{
+    background-color: #ff4c68;
+    color:azure;
+    
+}
+.title-h1{
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.rotate{
+    width: 60%;
+    transform: rotate(25deg);
+}
+/* .title-nav-form{
+    padding-left: 270px;
+} */
+
+/* .navbar{
+    font-family: 'Ubuntu';
+
+} */
+/* .navbar a{
+    color: #3a6351 !important;
+} */
+
+
+    /* Navbar Brand Name */
+    /* navbar-brand */
+nav{
+    padding-bottom: 4.5rem !important;
+}
+
+.navbar-link {
+   padding: 0 18px !important;
+   font-family:'Times New Roman';
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu' !important;
+    size: 3.6rem !important;
+    font-weight: bolder !important;
+    color:bisque !important; 
+
+}
+
+    /* button */
+.title-button{
+    margin: 20px 30px 0 0;    
+}
+
+
+            /* features part  */
+#features{
+    padding: 7% 15%;
+    text-align: center;
+
+}
+.fas{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.fas:hover{
+    color: #ff4c68;
+}
+
+.col-lg-4 > h3{
+    font-size: 1.5rem;
+}
+.col-lg-4 > p{
+    font-family: 'montserrat-bold';
+    color: #8f8f8f;
+    padding: 0 5%;
+}
+
+            /* testimonials */
+#testimonials{
+    /* padding: 7% 15%; */
+    text-align: center;
+    background-color: #ef8172;
+    color:azure;
+
+}
+#testimonials > h2{
+    font-family: 'Berlin Sans FB';
+    font-size: 3rem;
+    padding: 0 7% 0 7%;
+}
+
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+}
+
+#press > img{
+    width: 15%;
+    margin: 0px 25px 50px 25px;
+}
+
+
+        /* carousel-item */
+.carousel-item{
+    padding: 7% 15%;
+    /* margin: 7% 15%; */
+}
+
+        /* Carousel button  */
+.car-button{
+    border: 0;
+    opacity: 0.1;
+}
+.car-button:hover{
+    border: 0;
+    opacity: 0.3;
+}
+
+
