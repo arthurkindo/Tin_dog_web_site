@@ -131,3 +131,14 @@ nav{
 }
 
 
+
+/* pricing section  */
+#pricing{
+    text-align:center;
+    margin: 80px 40px;
+}
+
+.price-col{
+    padding: 4% 3%;
+}
+
